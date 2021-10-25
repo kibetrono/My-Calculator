@@ -1,0 +1,45 @@
+body{
+    background-color: peru;
+}
+
+table{
+    background-color: grey;
+    border-spacing: 30px;
+    border:1px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    height:800px;    
+}
+
+tr{
+    text-align: center;
+    border:1px solid red;
+}
+
+input{
+    padding:10px;
+    text-align: center;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+    border:none;
+    font-size: 20px;
+}
+
+input:hover{
+    background-color: yellow;
+    color:green;
+    transform: scale(1.5);
+}
+
+#answer{
+    background-color: orange;
+    width:430px;
+    height:50px;
+    transform: none;
+    text-align: center;
+    border: 20px solid green;
+}
+
+
