@@ -20,7 +20,7 @@
 
 ## Site
 
-[Click Here]() to use My Calculator
+[Click Here](https://davidkibetrono.github.io/My-Calculator/) to use My Calculator
 
 ## Licence
 MIT (c) [David rono](https://choosealicense.com/licenses/mit/)
